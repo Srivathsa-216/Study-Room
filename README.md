@@ -1,5 +1,5 @@
 # Study-Room
-A Student Study room project on Computer Graphics using openGL using C language.
+A Student Study room project on Computer Graphics using openGL using CPP language.
 The features of the study room are  -
 -> Light.
 -> No curve.
